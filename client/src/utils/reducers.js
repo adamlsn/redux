@@ -93,4 +93,4 @@ export const reducer = (state, action) => {
   }
 };
 
-export default reducers;
+export const reducers;
